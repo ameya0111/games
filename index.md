@@ -10,7 +10,7 @@
 <a href="https://github.com/ameya0111/games/blob/main/hello-web.pde">source</a> 
 </p>
 
-<p><a href="http://ameya0111.github.io/games/snakerr.html">Frogger with a Snake</a> <a href="https://github.com/ameya0111/games/blob/main/Snakerr.pde">source</a> 
+<p><a href="http://ameya0111.github.io/games/snakerr.html">Frogger with a Snake - This is an original game I made - a hybrid of Snake and Frogger</a> <a href="https://github.com/ameya0111/games/blob/main/Snakerr.pde">source</a> 
 </p>
 
 <p><a href="http://ameya0111.github.io/games/AstralTrek.html">Astral Trek</a>
