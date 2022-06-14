@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
 
-You can use the [editor on GitHub](https://github.com/ameya0111/games/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Links to Games I have Created using Processing JS</h1>
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><a href="http://ameya0111.github.io/games/3dballthrow.html">Basic ball throw and aim in 3d</a> <a href="https://github.com/ameya0111/games/blob/main/3dballthrow.pde">source</a> 
+</p>  
+<p><a href="http://ameya0111.github.io/games/snakeGame.html">Classical Snake</a> 
+<a href="https://github.com/ameya0111/games/blob/main/hello-web.pde">source</a> 
+</p>
 
-### Markdown
+<p><a href="http://ameya0111.github.io/games/snakerr.html">Frogger with a Snake</a> <a href="https://github.com/ameya0111/games/blob/main/Snakerr.pde">source</a> 
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p><a href="http://ameya0111.github.io/games/AstralTrek.html">Astral Trek</a>
+<a href="https://github.com/ameya0111/games/blob/main/AstralTrek.pde">source</a> </p>
+<p><a href="http://ameyaskvt.github.io/chessJavaScriptImplementation/knightsTour.html">Knights Tour</a>
+<a href="https://github.com/ameyaskVT/ameyaskVT.github.io/blob/master/chessJavaScriptImplementation/knightsTour.pde">source</a> </p>
+<p><a href="http://ameya0111.github.io/games/burstingCircles.html">Burst the circles</a>
+<a href="https://github.com/ameya0111/games/blob/main/burstingCircles.pde">source</a> </p>
+<p><a href="http://ameya0111.github.io/games/freeFall.html">Free Fall</a>
+<a href="https://github.com/ameya0111/games/blob/main/freeFall.pde">source</a> </p>
+<p><a href="http://ameya0111.github.io/games/turtles.html">Turtles and Snakes</a> 
+<a href="https://github.com/ameya0111/games/blob/main/turtles.js">source</a> </p>
 
-```markdown
-Syntax highlighted code block
+<p><a href="http://ameya0111.github.io/games/dodgeBall.html">Animal Dodge Ball</a> 
+<a href="https://github.com/ameya0111/games/blob/main/dodgeBall.js">source</a> </p>  
+  
+<p><a href="http://ameya0111.github.io/games/cgol.html">Conway's Game of Life</a> 
+<a href="https://github.com/ameya0111/games/blob/main/cgol.js">source</a> </p>  
+  
+  
+<p>Watch this space for more</p>
 
-# Header 1
-## Header 2
-### Header 3
+</body>
+</html>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ameya0111/games/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
